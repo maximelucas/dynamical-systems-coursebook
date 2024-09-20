@@ -1,11 +1,15 @@
-# Théorie Qualitative des Systèmes Dynamiques : codes
+# Théorie qualitative des systèmes dynamiques : codes associés
 
 ![logo](lorenz_attractor.png)
 
 
-**Unamur, Master 1 en Sciences Mathématiques, 2024-2025**
+UNamur, 2024-2025  
+Master en Sciences Mathématiques, bloc 1  
+Code : SMATM104  
 
-**Intervenant: Maxime Lucas**
+Professeur : Maxime Lucas  
+Assistant : Martin Moriamé
+
 
 ## Table des matières
 
