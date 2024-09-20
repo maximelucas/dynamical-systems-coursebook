@@ -4,7 +4,7 @@
 format: jb-book
 root: intro
 chapters:
-- file: lecon_1_intro
+- file: lecture_1/lecon_1_intro.ipynb
 #- file: markdown
 #- file: notebooks
 #- file: markdown-notebooks
