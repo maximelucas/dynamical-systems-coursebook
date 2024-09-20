@@ -3,6 +3,10 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: lecture_1/lecon_1_intro.ipynb
+
+parts:
+- caption: Introduction
+
+  chapters:
+  - file: lecture_1/lecon_1_intro.ipynb
 
