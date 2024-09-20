@@ -1,7 +1,7 @@
 
 # Source pour les codes du cours Théorie Qualitative des Systèmes Dynamiques
 
-Le jupyter-book peut-être trouvé à l'adresse [ https://github.com/maximelucas/dynamical-systems-coursebook/intro.html]( https://github.com/maximelucas/dynamical-systems-coursebook/intro.html).
+Le jupyter-book se trouve à l'adresse : [https://maximelucas.github.io/dynamical-systems-coursebook/intro.html](https://maximelucas.github.io/dynamical-systems-coursebook/intro.html).
 
 ## Deployer ce jupyter-book
 
