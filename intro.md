@@ -7,7 +7,7 @@ UNamur, 2024-2025
 Master en Sciences Mathématiques, bloc 1  
 Code : SMATM104  
 
-Professeur : Maxime Lucas  
+Enseignant : Maxime Lucas  
 Assistant : Martin Moriamé
 
 
