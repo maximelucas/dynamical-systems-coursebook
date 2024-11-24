@@ -4,12 +4,8 @@
 format: jb-book
 root: intro
 
-parts:
-#- caption: Introduction
-  chapters:
+chapters:
   - file: lecture_1/lecon_1_intro.ipynb
   - file: lecture_4/lecon_4_cycles_limites.ipynb
   - file: lecture_6/lecon_6_chaos.ipynb
   - file: lecture_7/lecon_7_systems_discrets.ipynb
-
-  
