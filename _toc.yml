@@ -9,3 +9,5 @@ chapters:
   - file: lecture_4/lecon_4_cycles_limites.ipynb
   - file: lecture_6/lecon_6_chaos.ipynb
   - file: lecture_7/lecon_7_systems_discrets.ipynb
+  - file: lecture_8/lecon_8_fractales.ipynb
+  - file: lecture_9/lecon_9_synchronization.ipynb
